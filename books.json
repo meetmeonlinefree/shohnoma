@@ -1,0 +1,64 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Ҷилди якум",
+      "description": "Оғози офариниш",
+      "pdf_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/1.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Ҷилди дуюм",
+      "description": "Подшоҳии Кейумрас",
+      "pdf_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/2.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Ҷилди сеюм",
+      "description": "Ҳушинг ва Таҳмурас",
+      "pdf_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/3.pdf"
+    },
+    {
+      "id": 4,
+      "title": "Ҷилди чорум",
+      "description": "Ҷамшед ва Заҳҳок",
+      "pdf_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/4.pdf"
+    },
+    {
+      "id": 5,
+      "title": "Ҷилди панҷум",
+      "description": "Фаридун ва падаронаш",
+      "pdf_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/5.pdf"
+    },
+    {
+      "id": 6,
+      "title": "Ҷилди шашум",
+      "description": "Манучеҳр ва Навзар",
+      "pdf_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/6.pdf"
+    },
+    {
+      "id": 7,
+      "title": "Ҷилди ҳафтум",
+      "description": "Кайковус ва Сиёвуш",
+      "pdf_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/7.pdf"
+    },
+    {
+      "id": 8,
+      "title": "Ҷилди ҳаштум",
+      "description": "Кайхусрав ва Афросиёб",
+      "pdf_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/8.pdf"
+    },
+    {
+      "id": 9,
+      "title": "Ҷилди нуҳум",
+      "description": "Бижан ва Манижа",
+      "pdf_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/9.pdf"
+    },
+    {
+      "id": 10,
+      "title": "Ҷилди даҳум",
+      "description": "Искандар ва поёни Шоҳнома",
+      "pdf_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/main/books/10.pdf"
+    }
+  ]
+}
