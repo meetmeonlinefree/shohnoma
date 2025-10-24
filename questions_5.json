@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Офаридгор чӣ гуна олами ҳастиро офарид?",
+      "options": [
+        "Бо як калимаи 'Бош'",
+        "Дар шаш рӯз",
+        "Дар як лаҳза",
+        "Бе ҳеч тадбир"
+      ],
+      "correctIndex": 1,
+      "image": "https://play-lh.googleusercontent.com/rhAU-r-K1CJo5V8TqgjknLhjm_w0UN_GKebb8ouSApdq-SVW_tmGBtXVlhr1mRODugFTJCI7EwohmBo9shD05w=w240-h480-rw"
+    },
+    {
+      "id": 2,
+      "question": "Аввалин одам чӣ гуна офарида шуд?",
+      "options": [
+        "Аз хоки сафед, сиёҳ, сурх ва зард",
+        "Аз оби дарё",
+        "Аз оташи алангадор",
+        "Аз боди сард"
+      ],
+      "correctIndex": 0,
+      "image": "https://play-lh.googleusercontent.com/rhAU-r-K1CJo5V8TqgjknLhjm_w0UN_GKebb8ouSApdq-SVW_tmGBtXVlhr1mRODugFTJCI7EwohmBo9shD05w=w240-h480-rw"
+    }
+  ]
+}
