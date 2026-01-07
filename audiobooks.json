@@ -1,0 +1,18 @@
+{
+  "audiobooks": [
+    {
+      "id": "1",
+      "name": "Гуфтори 1",
+      "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 1.",
+      "image_url": "https://example.com/images/master_i_margarita.jpg",
+      "mp3_url": "https://example.com/audio/master_i_margarita.mp3"
+    },
+    {
+      "id": "2",
+      "name": "Гуфтори 2",
+      "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 2.",
+      "image_url": "https://example.com/images/1984.jpg",
+      "mp3_url": "https://example.com/audio/1984.mp3"
+    }
+  ]
+}
