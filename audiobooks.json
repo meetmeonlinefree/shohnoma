@@ -20,6 +20,13 @@
       "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 3.",
       "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori3.avif",
       "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori3.mp3"
+    },
+    {
+      "id": "4",
+      "name": "Гуфтори 4",
+      "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 4.",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori4.webp",
+      "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori4.mp3"
     }
   ]
 }
