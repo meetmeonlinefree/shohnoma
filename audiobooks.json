@@ -5,14 +5,21 @@
       "name": "Гуфтори 1",
       "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 1.",
       "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori1.jpg",
-      "mp3_url": "https://example.com/audio/master_i_margarita.mp3"
+      "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori1.mp3"
     },
     {
       "id": "2",
       "name": "Гуфтори 2",
       "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 2.",
       "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori2.avif",
-      "mp3_url": "https://example.com/audio/1984.mp3"
+      "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori2.mp3"
+    },
+    {
+      "id": "3",
+      "name": "Гуфтори 3",
+      "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 3.",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori3.avif",
+      "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori3.mp3"
     }
   ]
 }
