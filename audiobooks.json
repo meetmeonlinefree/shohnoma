@@ -69,6 +69,76 @@
       "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 10.",
       "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori10.webp",
       "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori10.mp3"
+    },
+    {
+      "id": "11",
+      "name": "ГУФТОРИ 11",
+      "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 11.",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori11.avif",
+      "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori11.mp3"
+    },
+    {
+      "id": "12",
+      "name": "ГУФТОРИ 12",
+      "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 12.",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori12.avif",
+      "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori12.mp3"
+    },
+    {
+      "id": "13",
+      "name": "ГУФТОРИ 13",
+      "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 13.",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori13.avif",
+      "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori13.mp3"
+    },
+    {
+      "id": "14",
+      "name": "ГУФТОРИ 14",
+      "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 14.",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori14.avif",
+      "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori14.mp3"
+    },
+    {
+      "id": "15",
+      "name": "ГУФТОРИ 15",
+      "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 15.",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori15.avif",
+      "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori15.mp3"
+    },
+    {
+      "id": "16",
+      "name": "ГУФТОРИ 16",
+      "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 16.",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori16.avif",
+      "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori16.mp3"
+    },
+    {
+      "id": "17",
+      "name": "ГУФТОРИ 17",
+      "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 17.",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori17.avif",
+      "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori17.mp3"
+    },
+    {
+      "id": "18",
+      "name": "ГУФТОРИ 18",
+      "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 18.",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori18.avif",
+      "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori18.mp3"
+    },
+    {
+      "id": "19",
+      "name": "ГУФТОРИ 19",
+      "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 19.",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori19.avif",
+      "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori19.mp3"
+    },
+    {
+      "id": "20",
+      "name": "ГУФТОРИ 20",
+      "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 20.",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori20.avif",
+      "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori20.mp3"
     }
   ]
 }
