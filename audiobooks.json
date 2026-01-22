@@ -839,6 +839,69 @@
       "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 120.",
       "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori120.avif",
       "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori120.mp3"
+    },
+    {
+      "id": "121",
+      "name": "ГУФТОРИ 121",
+      "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 121.",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori121.avif",
+      "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori121.mp3"
+    },
+    {
+      "id": "122",
+      "name": "ГУФТОРИ 122",
+      "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 122.",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori122.avif",
+      "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori122.mp3"
+    },
+    {
+      "id": "123",
+      "name": "ГУФТОРИ 123",
+      "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 123.",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori123.avif",
+      "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori123.mp3"
+    },
+    {
+      "id": "124",
+      "name": "ГУФТОРИ 124",
+      "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 124.",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori124.avif",
+      "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori124.mp3"
+    },
+    {
+      "id": "125",
+      "name": "ГУФТОРИ 125",
+      "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 125.",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori125.avif",
+      "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori125.mp3"
+    },
+    {
+      "id": "126",
+      "name": "ГУФТОРИ 126",
+      "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 126.",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori126.avif",
+      "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori126.mp3"
+    },
+    {
+      "id": "127",
+      "name": "ГУФТОРИ 127",
+      "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 127.",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori127.avif",
+      "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori127.mp3"
+    },
+    {
+      "id": "128",
+      "name": "ГУФТОРИ 128",
+      "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 128.",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori128.avif",
+      "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori128.mp3"
+    },
+    {
+      "id": "129",
+      "name": "ГУФТОРИ 129",
+      "description": "ШОҲНОМА-И АБУЛҚОСИМ ФИРДАВСӢ / ГУФТОРИ 129.",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori129.avif",
+      "mp3_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audiobooks/guftori129.mp3"
     }
   ]
 }
